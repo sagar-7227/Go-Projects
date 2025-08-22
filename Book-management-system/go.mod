@@ -1,5 +1,4 @@
-module github.com/sagar-7227/go-bookstore
-
+module github.com/sagar-7227/Book-management-system
 go 1.24.5
 
 require (
